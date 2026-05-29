@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-I'm **Yarranav**, a Security Analyst and SOAR Engineer learning Python to automate security workflows — alert triage, IOC enrichment, log parsing, and SOAR playbook development.
+I'm **Naveen Yarra**, a Senior Security Analyst and SOAR Engineer learning Python to automate security workflows — alert triage, IOC enrichment, log parsing, API Calling and SOAR playbook development.
 
 I'm documenting every step so other security professionals starting from zero can follow along.
 
