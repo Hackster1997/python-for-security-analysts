@@ -81,8 +81,7 @@ I'm documenting every step so other security professionals starting from zero ca
 
 ## 📬 Connect
 
-- **LinkedIn:** [Your LinkedIn URL here]
-- **GitHub:** [Your GitHub profile URL here]
+- **LinkedIn:** https://www.linkedin.com/in/naveenyarra/
 
 ---
 
